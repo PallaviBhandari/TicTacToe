@@ -1,0 +1,8 @@
+C:\Data\SourceControl\github\TicTacToe\Tests\bin\Debug\Tests.dll
+C:\Data\SourceControl\github\TicTacToe\Tests\bin\Debug\Tests.pdb
+C:\Data\SourceControl\github\TicTacToe\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Data\SourceControl\github\TicTacToe\Tests\bin\Debug\TicTacToe.exe
+C:\Data\SourceControl\github\TicTacToe\Tests\bin\Debug\TicTacToe.pdb
+C:\Data\SourceControl\github\TicTacToe\Tests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Data\SourceControl\github\TicTacToe\Tests\obj\Debug\Tests.dll
+C:\Data\SourceControl\github\TicTacToe\Tests\obj\Debug\Tests.pdb
